@@ -24,7 +24,7 @@ Once the dependencies have been installed from both directories, you can start t
 
 # Using NPM
 
-This template is already set up to use yarn but if you prefer to use npm then there will be slight modifications to the scripts inside the root directories package.json file. Just update your package.json scripts in the root directory to:
+This demo app is already set up to use yarn but if you prefer to use npm then there will be slight modifications to the scripts inside the root directories package.json file. Just update your package.json scripts in the root directory to:
 
 ```
   "scripts": {
