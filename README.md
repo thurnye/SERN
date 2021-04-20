@@ -1,4 +1,4 @@
-# MERN--MySql
+# SERN--MySql
 # MySQL React Node Express
 # Description
 
